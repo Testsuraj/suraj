@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Channel-blue?style=flat-square&logo=telegram">
 </a> 
 <a href="https://www.linkedin.com/in/suraj-5779b4363">
-    <img src="https://img.shields.io/badge/Channel-blue?style=flat-square&logo=linkedin">
+    <img src="https://img.shields.io/badge/linkedin-blue?style=flat-square&logo=linkedin">
 </a> 
 
 <br/> 
