@@ -1,7 +1,7 @@
 
 <p align="center">
 <a href="https://github.com/Testsuraj">
-    <img src="https://readme-typing-svg.demolab.com?font=Firacode&size=24&duration=3000&pause=500&color=AE87FF&multiline=true&center=true&vCenter=true&width=265&height=124&lines=Dr Abdul+Matin+Karimi;Optimal Grow YT ; FullStack Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Firacode&size=24&duration=3000&pause=500&color=AE87FF&multiline=true&center=true&vCenter=true&width=265&height=124&lines=Suraj " alt="Typing SVG" />
 </a>
 <br/>
 
