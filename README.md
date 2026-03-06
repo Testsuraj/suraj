@@ -5,11 +5,15 @@
 </a>
 <br/>
 
+
 <a href="https://www.youtube.com/@foketcrypto">
     <img src="https://img.shields.io/badge/-youtube-red?style=flat-square&logo=youtube">
 </a> 
 <a href="https://t.me/foketcrypto">
     <img src="https://img.shields.io/badge/Channel-blue?style=flat-square&logo=telegram">
+</a> 
+<a href="https://www.linkedin.com/in/suraj-5779b4363">
+    <img src="https://img.shields.io/badge/Channel-blue?style=flat-square&logo=linkedin">
 </a> 
 
 <br/> 
@@ -18,11 +22,10 @@
     <img src="https://github-stats-alpha.vercel.app/api?username=Testsuraj&cc=22272e&tc=37BCF6&ic=AE87FF&bc=AE87FF">
 </a>
 <br>
-</p>
+
 
 <a href="https://github.com/Testsuraj">
-    <p align="center">
-         <img src="https://skillicons.dev/icons?i=xd,github,vscode,linkedin,postman,git,linux,md,php,mysql,html,css,py,ts,solidity&perline=8" />
-    </p>
-   
+
+<img src="https://skillicons.dev/icons?i=xd,github,vscode,linkedin,postman,git,linux,md,php,mysql,html,css,py,ts,solidity&perline=8" />   
 </a>
+</p>
